@@ -1,0 +1,1 @@
+# EfectoBlurring-Multiprocesadores
